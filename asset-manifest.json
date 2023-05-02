@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29482650.css",
+    "main.js": "/static/js/main.a8ae7a7d.js",
+    "static/media/card_5.png": "/static/media/card_5.b85bc4d08ff16a1dfcf4.png",
+    "static/media/GP.png": "/static/media/GP.98220e26ac449824e33e.png",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.b4d8be966f18817506e7.ttf",
+    "static/media/slide_6.jpg": "/static/media/slide_6.988c4b69f79023273d82.jpg",
+    "static/media/slide_1.jpg": "/static/media/slide_1.c3eed33954412d5b9839.jpg",
+    "static/media/Profile.pdf": "/static/media/Profile.d6cf8b2bf65463c7f3e4.pdf",
+    "static/media/slide_5.jpg": "/static/media/slide_5.7d4713be5c0e84ff5560.jpg",
+    "static/media/slide_8.jpg": "/static/media/slide_8.1fcea6e34c01e12a3055.jpg",
+    "static/media/card_2.png": "/static/media/card_2.fb7fe6b91a9b7d00f90b.png",
+    "static/media/Vk.jpg": "/static/media/Vk.17ee28d03459e5189d0c.jpg",
+    "static/media/slide_3.jpg": "/static/media/slide_3.76450b922d7cc56a5c50.jpg",
+    "static/media/slide_4.jpg": "/static/media/slide_4.8fb8a6a312e4fa1b0bb2.jpg",
+    "static/media/slide_7.jpg": "/static/media/slide_7.532d43154c0c10b73687.jpg",
+    "static/media/slide_2.jpg": "/static/media/slide_2.ffafb74fc44db510696f.jpg",
+    "static/media/Tel.jpg": "/static/media/Tel.2f97bfa47c74fcd631c2.jpg",
+    "static/media/Wp.jpeg": "/static/media/Wp.c73c4bad5be72be03ae2.jpeg",
+    "static/media/card_3.png": "/static/media/card_3.ba822b95bda99f8d5fce.png",
+    "static/media/Img_modal.png": "/static/media/Img_modal.897bb3123836ccbc85ef.png",
+    "static/media/card_1.jpg": "/static/media/card_1.3fc6cb5dc73a6de47c9e.jpg",
+    "static/media/card_7.png": "/static/media/card_7.513c74a27be1a199407d.png",
+    "static/media/card_4.png": "/static/media/card_4.4067ac8d06b62e72359f.png",
+    "static/media/card_6.png": "/static/media/card_6.3ae22ae91d141eeeac51.png",
+    "static/media/timer_border_NSV2.png": "/static/media/timer_border_NSV2.244b6d1cd4e06bd915d1.png",
+    "index.html": "/index.html",
+    "main.29482650.css.map": "/static/css/main.29482650.css.map",
+    "main.a8ae7a7d.js.map": "/static/js/main.a8ae7a7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29482650.css",
+    "static/js/main.a8ae7a7d.js"
+  ]
+}
